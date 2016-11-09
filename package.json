@@ -1,0 +1,14 @@
+{
+  "name": "test_express_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leibin",
+  "license": "ISC",
+  "dependencies": {
+    "utility": "^1.8.0"
+  }
+}
